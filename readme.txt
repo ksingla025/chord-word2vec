@@ -1,0 +1,1 @@
+Greer, Timothy, Karan Singla, Benjamin Ma, and Shrikanth Narayanan. "Learning shared vector representations of lyrics and chords in music." In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3951-3955. IEEE, 2019.
